@@ -11,7 +11,7 @@ My interests include science of deep learning (pre-training dynamics, RL, and Co
 ### Work Experience
 Previously, I worked for 3 years as a Machine Learning Engineer at [Fourth](https://www.fourth.com/solution/ai), where I improved Time-Series Models for large restaurant chains, and [STRAT7](https://strat7.com/specialisms/ai/), where I conducted NLP modelling on text reviews.
 
-My Bachelor at Uni Bonn thesis was under [Prof. Teodora Boneva](https://teodoraboneva.com/) on the intersection of Statistics and Economics.
+My Bachelor thesis at Uni Bonn was under [Prof. Teodora Boneva](https://teodoraboneva.com/) on the intersection of Statistics and Economics.
 
 ### Prior Life
 I used to compete in science olympiads:
