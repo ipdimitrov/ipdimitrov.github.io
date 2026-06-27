@@ -4,7 +4,7 @@ layout: homepage
 
 ### About Me
 
-Hi! I am a researcher working on AI Safety. Previously, I was team lead and researcher on a paper called ["A loss curvature account of fine-tuning fragility"](https://openreview.net/forum?id=Mppm6nh5qO) at [London AI Safety Research Labs](https://lasrlabs.org/) with [Dima Krasheninnikov](https://krasheninnikov.github.io/) (Anthropic / Cambridge PhD), accepted to 3 ICML Workshops. Before that, I was at the [Supervised Program for Alignment Research](https://sparai.org/), working on Mixture of Experts Interpretability with the [UK AI Security Institute](https://www.aisi.gov.uk/).
+Hi! I am a researcher working on AI Safety. Previously, I was team lead and researcher on a paper called ["A loss curvature account of fine-tuning fragility"](https://openreview.net/forum?id=Mppm6nh5qO) at [London AI Safety Research Labs](https://lasrlabs.org/) with [Dima Krasheninnikov](https://krasheninnikov.github.io/) (Anthropic / Cambridge PhD), accepted to 3 ICML Workshops. Before that, I was at the [Supervised Program for Alignment Research](https://sparai.org/), working on Mixture of Experts Interpretability with the [UK AI Security Institute](https://www.aisi.gov.uk/), the paper was accepted to ICML.
 
 Topics that are interesting to me right now:
 - Persona and trait directions in activation space, measuring and steering traits
